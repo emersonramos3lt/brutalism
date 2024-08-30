@@ -7,6 +7,7 @@ slides, JS animations, parallax and other features.
 - JavaScript
 - Parallax
 - Slides
+- Personalized cursor
 
 # Project Screenshot
 
